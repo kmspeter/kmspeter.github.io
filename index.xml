@@ -8,6 +8,18 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 19 Oct 2017 15:26:15 +0000</lastBuildDate><atom:link href="https://kmspeter.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>블로그 만들기</title>
+      <link>https://kmspeter.github.io/blog/secondblog/</link>
+      <pubDate>Wed, 10 May 2023 06:24:32 +0000</pubDate>
+      
+      <guid>https://kmspeter.github.io/blog/secondblog/</guid>
+      <description>//10주차 과제 블로그 만들기//
+오랫동안 이 웹사이트에는 저에게 연락할 수 있는 링크가 몇 개 있었지만 그 시절은 끝났습니다.
+이제 나는 새로운 휴고 웹사이트를 가지고 있고, 테마는 커스텀으로 작성되어 있습니다.
+ 더 많은 소셜 링크가 있는 홈페이지, 그리고 나의 기술에 대한 설명 사용자에 대한 설명이 있는 정보 페이지 모든 프로젝트를 보여주는 포트폴리오 페이지 블로그  왜 휴고인가? 첫 번째 질문은 왜 &amp;lsquo;사이트 빌더&amp;rsquo;인가 하는 것입니다? 저는 웹 개발에 능숙한데, 그냥 제가 직접 작성하는 게 어때요?</description>
+    </item>
+    
+    <item>
       <title>Hugo Portfolio Website</title>
       <link>https://kmspeter.github.io/portfolio/hugo-portfolio-website/</link>
       <pubDate>Fri, 19 Jun 2020 23:00:00 +0000</pubDate>
